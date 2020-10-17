@@ -9,13 +9,10 @@
     <id>tag:github.com,2008:Repository/118847892/v1.8.0</id>
     <updated>2020-09-16T18:54:07+02:00</updated>
     <link rel="alternate" type="text/html" href="https://github.com/dscalzi/HeliosLauncher/releases/tag/v1.8.0"/>
-    <title>Release v1.8.0 Radeon - 2020 Maintenance and Fixes</title>
-    <content type="html">&lt;h2&gt;Release v1.8.0&lt;/h2&gt;
-&lt;p&gt;This update contains various fixes and changes from the past year of development and maintenance. Forks should constantly be in sync with master to get the latest changes, fixes, and features.&lt;/p&gt;
-&lt;p&gt;Is your network using Helios and its toolchain? Consider supporting its development &lt;a href=&quot;https://github.com/sponsors/dscalzi&quot;&gt;https://github.com/sponsors/dscalzi&lt;/a&gt;&lt;br&gt;
-Sponsors of a certain tier will be added to the README.&lt;/p&gt;
-&lt;h2&gt;Notable Development Efforts&lt;/h2&gt;
-&lt;h3&gt;Helios v2&lt;/h3&gt;
+    <title>Radeon - Parcourez Terres et Mers</title>
+    <content type="html">&lt;h2&gt;C'est quoi Radeon&lt;/h2&gt;
+&lt;p&gt;Radeon est avant tout un serveur minecraft qui a vu le jour en 2019. Cela fait donc plus de six mois qu’il est en construction avec une équipe compétente et soudée qui travaille d’arrache-pied pour amener à bien ce projet. Radeon est un serveur Minecraft qui a pour but de recréer le monde. Créez vos villes, dirigez des pays, échangez, guerroyez, explorez et faites de grandes alliances internationales le tout sur une terre fidèlement recrée.&lt;/p&gt;
+&lt;h2&gt;Nos Reseaux&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher/tree/ts-refactor&quot;&gt;https://github.com/dscalzi/HeliosLauncher/tree/ts-refactor&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Helios is being rewritten in Typescript, using React as a UI framework. Each system is being rewritten and overhauled using the lessons learned from implementing and maintaining v1.&lt;/p&gt;
 &lt;p&gt;This rewrite has NO ETA. It is being worked on entirely in my freetime and is a massive undertaking. No corners are being cut, and tests are being written for each component. For status updates, monitor the v2 branch or check the discord. Large/current tasks will be posted on the &lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher/projects/1&quot;&gt;v2 project board&lt;/a&gt;.&lt;/p&gt;
