@@ -53,7 +53,6 @@
 &lt;li&gt; Le chantage &lt;/li&gt;
 &lt;li&gt; Toute action volontaire ou incitation pouvant provoquer un ralentissement ou un crash de serveur. (commandes, utilisation d'items bugs, etc.)&lt;/li&gt;
 &lt;li&gt; La promotion de cheats.&lt;/li&gt;
-&lt;li&gt; Support mod loading for 1.7.10.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Earth&lt;/h3&gt;
 &lt;ul&gt;
@@ -90,7 +89,18 @@
 &lt;li&gt; Toute technique comme le jitterclick, butterflyclick, dragclick étant non différentiable d’un autoclick.&lt;/li&gt;
 &lt;li&gt; Maintenir une touche enfoncée à l’aide d’un objet ou logiciel afin d’éviter d’être kick pour AFK.&lt;/li&gt;
 &lt;li&gt; La modification ou l'exploitation des fichiers sources du launcher de Radeon.&lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;/ul&gt;
+&lt;h3&gt;Exterieur au jeu&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt; Toute demande de remboursement (suite à la perte de stuff/items non provoquée par le joueur) doit obligatoirement être accompagnée d'une preuve vidéo (UNIQUEMENT).
+&lt;li&gt; Le TeamSpeak, Discord et le forum de Radeon possèdent leurs propres règlements disponibles sur chaque plateforme respective.
+&lt;li&gt; Si le leader d'un pays est banni de façon permanente de notre serveur, un officier de votre pays se verra attribuer le lead de celle-ci, dans le cas où la faction ne contiendrait pas d'officier, un membre sera désigné.
+&lt;li&gt; Si un membre du staff vous interpelle via des panneaux ou en vous déplaçant et que vous ne répondez pas vous serez considéré comme étant AFK.
+&lt;li&gt; Si vous participez avec une personne à un manquement au règlement, cela vous rend complice et vous serez sanctionné de la même manière que la personne ayant effectué le manquement au règlement !
+&lt;li&gt; Si vous vous trouvez dans un endroit où de la duplication a été commise et que vous n'avez pas signalé cet endroit à un membre du staff, vous serez sanctionné en étant considéré comme un dupliqueur ! Il en va de même si vous possédez un home où de la duplication a été réalisée.
+&lt;li&gt; Si vous refusez de passer sur le TeamSpeak ou le Discord malgré plusieurs avertissements (dans le tchat, ou en sanctions comme les warn et les kick), un bannissement permanent vous sera attribué le temps que vous vous connectiez sur cedit TeamSpeak ou Discord.
+&lt;/ul&gt;
+	</content>
     <author>
       <name>dscalzi</name>
     </author>
