@@ -35,7 +35,7 @@
 &lt;/ul&gt;
 &lt;h3&gt;Chat&lt;/h3&gt;
 &lt;ul&gt;
-&lt;h2&gt;Sont prohibés dans les tchats de nos serveurs :&lt;/h2&gt;
+&lt;li&gt;Sont prohibés dans les tchats de nos serveurs :&lt;/li&gt;
 &lt;li&gt; Les insultes, même légères, envers un autre joueur, un membre du staff ou le serveur en général.&lt;/li&gt;
 &lt;li&gt; Le flood, consistant à saturer le tchat de caractères incompréhensibles. (“nonnnnnnnn”, “sdfsqdgqsdfg qerfgdf”, l’utilisation de “!!!!!!!!!!!” ou encore les messages d’une seule lettre).&lt;/li&gt;
 &lt;li&gt; Le spam, c’est-à-dire renvoyer le même message plusieurs fois en moins de 2 minutes. (vous n’aurez pas plus de réponses en spammant)&lt;/li&gt;
@@ -78,24 +78,12 @@
 &lt;li&gt; Toute perturbation ou manquement au règlement d’un évent/d’une quête.&lt;/li&gt;
 &lt;li&gt; Si les champignons font lag le serveurs et qu'un staff vous demande de stopper cela vous devrez le faire immédiatement sous peine de sanction.&lt;/li&gt;
 &lt;li&gt; Les doubles comptes durant un bannissement.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/8b04f476eef5f46949c045aefeab0aa85a0d5139/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/8b04f476eef5f46949c045aefeab0aa85a0d5139&quot;&gt;&lt;tt&gt;8b04f47&lt;/tt&gt;&lt;/a&gt; PackXZExtract updated to v1.1.0.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/9d1aa497a7285f7c939608cb9c77fdac2a652d55/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/9d1aa497a7285f7c939608cb9c77fdac2a652d55&quot;&gt;&lt;tt&gt;9d1aa49&lt;/tt&gt;&lt;/a&gt; Send integer percentage only to reduce load on the IPC channel. (&lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;598379872&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/dscalzi/HeliosLauncher/issues/56&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/dscalzi/HeliosLauncher/pull/56/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/pull/56&quot;&gt;#56&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/64dfc541dcd8ad88facea9c5d3bc6cb20d9de080/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/64dfc541dcd8ad88facea9c5d3bc6cb20d9de080&quot;&gt;&lt;tt&gt;64dfc54&lt;/tt&gt;&lt;/a&gt; Added version to executable name.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/b1abe07aeb79fa8a31dbb5f46b417d3a0a836534/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/b1abe07aeb79fa8a31dbb5f46b417d3a0a836534&quot;&gt;&lt;tt&gt;b1abe07&lt;/tt&gt;&lt;/a&gt; Use new forgot password url.&lt;/li&gt;
-&lt;li&gt;Updated Electron to v10.
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/19ee187f102240643170e700745130c85f644921/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/19ee187f102240643170e700745130c85f644921&quot;&gt;&lt;tt&gt;19ee187&lt;/tt&gt;&lt;/a&gt; &lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/4f504cd4700683f4e6dee02fa3b3856b02559aac/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/4f504cd4700683f4e6dee02fa3b3856b02559aac&quot;&gt;&lt;tt&gt;4f504cd&lt;/tt&gt;&lt;/a&gt; Updated to Electron v7.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/141a753893251f87394ac8dddf6fe54a82ce47e4/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/141a753893251f87394ac8dddf6fe54a82ce47e4&quot;&gt;&lt;tt&gt;141a753&lt;/tt&gt;&lt;/a&gt; Updated to Electron v8.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/8726638a235bae927cb150365b72c6ffdd23d854/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/8726638a235bae927cb150365b72c6ffdd23d854&quot;&gt;&lt;tt&gt;8726638&lt;/tt&gt;&lt;/a&gt; Updated to Electron v9.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/2156099ea8fde013d45cbed2796fb6af713fa918/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/2156099ea8fde013d45cbed2796fb6af713fa918&quot;&gt;&lt;tt&gt;2156099&lt;/tt&gt;&lt;/a&gt; Updated to Electron v10&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/46853157ecc00d9362ff75ef4fdcd2f17a63c621/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/46853157ecc00d9362ff75ef4fdcd2f17a63c621&quot;&gt;&lt;tt&gt;4685315&lt;/tt&gt;&lt;/a&gt; Updated ejs to v3.&lt;/li&gt;
 &lt;li&gt;Virtually every dependency has been updated since the last release. Only important updates have been noted here.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Exterieur au jeu&lt;/h3&gt;
 &lt;ul&gt;
-&lt;h2&gt;Sont prohibés:&lt;/h2&gt;
+&lt;li&gt;Sont prohibés:&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt; L’utilisation de logiciel tiers. (Non fournis par Radeon exemple : Cheat , Macro , ect ...).&lt;/li&gt;
 &lt;li&gt; L'utilisation de Macro via un périphérique externe ( clavier , souris , pad , ect ... )&lt;/li&gt;
