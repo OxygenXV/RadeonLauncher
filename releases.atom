@@ -20,12 +20,12 @@
 &lt;h3&gt;Teamspeak&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://teamspeak.com/fr/&quot;&gt;https://teamspeak.com/fr/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Profitez d'un son d'une clarté exceptionnelle pour communiquer avec vos coéquipiers, quelle que soit la plateforme qu'ils utilisent, avec une sécurité de niveau militaire, sans temps de latence, et avec une fiabilité et une disponibilité optimales. ts.radeon.fr&lt;/p&gt;
-&lt;h2&gt;Changelog&lt;/h2&gt;
-&lt;p&gt;Full diff can be viewed &lt;a href=&quot;https://github.com/dscalzi/HeliosLauncher/compare/v1.7.0...v1.8.0&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;New Features&lt;/h3&gt;
+&lt;h2&gt;Reglement en jeu&lt;/h2&gt;
+&lt;p&gt;Nous vous prions de lire attentivement l’entièreté du règlement ci-dessous : nous considérons que tout joueur se connectant à nos serveurs a pris connaissance de cedit règlement et accepte d’être sanctionné si celui-ci enfreint une quelconque règle.&lt;/p&gt;
+&lt;h3&gt;Reglement Global&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/96db60791249b6c70c5eb295dc32fe591320326f/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/96db60791249b6c70c5eb295dc32fe591320326f&quot;&gt;&lt;tt&gt;96db607&lt;/tt&gt;&lt;/a&gt; Support mod loading for 1.7.10.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/7f821f36d782c88ca2955d40199704713d1f17c4/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/7f821f36d782c88ca2955d40199704713d1f17c4&quot;&gt;&lt;tt&gt;7f821f3&lt;/tt&gt;&lt;/a&gt; Support latest 1.12.2 builds (compiled with ForgeGradle 3).&lt;/li&gt;
+&lt;li&gt; Support mod loading for 1.7.10.&lt;/li&gt;
+&lt;li&gt; Support mod loading for 1.7.10.&lt;/li&gt;
 &lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/9a2c1fd9b94471838968165b4b3c7493e772b598/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/9a2c1fd9b94471838968165b4b3c7493e772b598&quot;&gt;&lt;tt&gt;9a2c1fd&lt;/tt&gt;&lt;/a&gt; Display the Java vendor on the settings page (ex. Oracle, AdoptOpenJDK, Amazon).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Fixes&lt;/h3&gt;
