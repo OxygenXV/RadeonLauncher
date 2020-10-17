@@ -78,9 +78,6 @@
 &lt;li&gt; Toute perturbation ou manquement au règlement d’un évent/d’une quête.&lt;/li&gt;
 &lt;li&gt; Si les champignons font lag le serveurs et qu'un staff vous demande de stopper cela vous devrez le faire immédiatement sous peine de sanction.&lt;/li&gt;
 &lt;li&gt; Les doubles comptes durant un bannissement.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/dscalzi/HeliosLauncher/commit/46853157ecc00d9362ff75ef4fdcd2f17a63c621/hovercard&quot; href=&quot;https://github.com/dscalzi/HeliosLauncher/commit/46853157ecc00d9362ff75ef4fdcd2f17a63c621&quot;&gt;&lt;tt&gt;4685315&lt;/tt&gt;&lt;/a&gt; Updated ejs to v3.&lt;/li&gt;
-&lt;li&gt;Virtually every dependency has been updated since the last release. Only important updates have been noted here.&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h3&gt;Exterieur au jeu&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Sont prohibés:&lt;/li&gt;
