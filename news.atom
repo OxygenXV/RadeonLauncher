@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<channel>
+<title>SpaceNetwork</title>
+<link>https://spacenetwork.fr</link>
+<language>fr</language>
+<description/>
+<image>
+<title>SpaceNetwork</title>
+<url>https://spacenetwork.fr/storage/img/logorond.png</url>
+<link>https://spacenetwork.fr</link>
+</image>
+<atom:link href="https://spacenetwork.fr/api/rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>Test du flux RSS</title>
+<link>https://spacenetwork.fr/news/testrss</link>
+<guid>https://spacenetwork.fr/news/testrss</guid>
+<description>Je suis bo</description>
+<pubDate>Fri, 16 Oct 2020 20:50:47 +0000</pubDate>
+<content:encoded><p>Coucou !</p></content:encoded>
+<dc:creator>NelFlv_</dc:creator>
+<slash:comments>0</slash:comments>
+</item>
+</channel>
+</rss>
